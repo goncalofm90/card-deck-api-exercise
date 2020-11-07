@@ -1,1 +1,1 @@
-# card-deck-api-exercise
+Exercising API implementation using react & AJAX.
